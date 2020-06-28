@@ -6,7 +6,7 @@ A JavaScript timed quiz. 5 questions with a total time of 75 seconds. If you get
 <img src="./assets/images/04-web-apis-homework-demo.gif" >
 
 ### Website
-
+https://ortizjavier10.github.io/code-quiz/
 
 ### Code
 * HTML5
