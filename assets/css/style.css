@@ -1,5 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
 .high-score {
     font-size: large;
+}
+.timer {
+    float: right;
+    padding-bottom: 10px;
 }
 
 .intro-page {
@@ -8,6 +18,25 @@
 }
 
 .startbtn {
-    background-color: aqua;
+    background-color: rgb(65, 18, 113);
+    color: white;
     border-radius: 5px;
+    padding: 10px 20px;
+    border-color: rgb(65, 18, 113);
+    
+}
+.startbtn::after {
+    background-color: cadetblue;
+}
+
+
+
+/* high scores page styling */
+
+.btn {
+    background-color: rgb(65, 18, 113);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border-color: rgb(65, 18, 113);
 }
